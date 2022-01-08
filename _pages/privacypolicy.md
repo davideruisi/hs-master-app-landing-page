@@ -8,4 +8,4 @@ include_in_header: false
 January 8 2022
 
 # Privacy Policy
-HS Master does not collect or store any of your personal information.
+**HS Master** does not collect or store any of your personal information.
