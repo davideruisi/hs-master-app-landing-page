@@ -45,7 +45,7 @@ features                                  :
 
   - title                                 : Card Library
     description                           : Explore the Hearthstone cards collection and show details of any card in the game.
-    fontawesome_icon_name                 : book-splells
+    fontawesome_icon_name                 : book-spells
 
 
 
