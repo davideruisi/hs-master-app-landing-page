@@ -3,4 +3,4 @@
 Landing page for HS Master app.
 
 ## Credits
-[Emil Baehr](https://emilbaehr.com/)
+Forked from [emilbaehr/automatic-app-landing-page](https://github.com/emilbaehr/automatic-app-landing-page)
